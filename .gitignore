@@ -1,0 +1,9 @@
+# Fichier de configuration (contient la clé API, ne doit jamais être sur GitHub)
+config.json
+
+# Dossiers de cache Python (générés automatiquement, inutiles sur GitHub)
+__pycache__/
+*.pyc
+
+# Fichiers CSV générés automatiquement
+match_history.csv
